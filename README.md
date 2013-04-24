@@ -1,5 +1,8 @@
-Esta es la pagina estatica de prueba
-
+#Esta es la pagina estatica de prueba
 git push origin gh-pages
 
-http://lmpetek.github.com/
+#Pagina del sitio
+http://lmpetek.github.com/apsweb
+
+#recupera el historial inverso en la terminal
+ctrl+r
